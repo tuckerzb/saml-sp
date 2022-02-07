@@ -23,7 +23,7 @@
   "main": "./lib/main.js",
   "bin": "./bin/server.js",
   "scripts": {
-    "start": "node ./bin/server.js --audience https://dealer.complyauto.com --idpMetaUrl https://sso-637d3c78.sso.duosecurity.com/saml2/sp/DI8WT62ATLLCIN4ULQX0/metadata"
+    "start": "node ./bin/server.js --audience https://dealer.complyauto.com --idpMetaUrl https://dev-3152560.okta.com/app/exk3t5ivf4oQ4GLNJ5d7/sso/saml/metadata"
   },
   "engines": {
     "node": ">=10.0.0"
