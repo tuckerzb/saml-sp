@@ -23,7 +23,7 @@
   "main": "./lib/main.js",
   "bin": "./bin/server.js",
   "scripts": {
-    "start": "node ./bin/server.js"
+    "start": "node ./bin/server.js --IdpMetaUrl https://sso-637d3c78.sso.duosecurity.com/saml2/sp/DI8WT62ATLLCIN4ULQX0/metadata"
   },
   "engines": {
     "node": ">=10.0.0"
